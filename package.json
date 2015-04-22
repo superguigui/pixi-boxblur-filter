@@ -13,7 +13,7 @@
     "blur"
   ],
   "author": "Guillaume Gouessan <guillaume.gouessan@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel": "^5.1.11",
     "babelify": "^6.0.2",
