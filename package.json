@@ -4,8 +4,8 @@
   "description": "Pixi.js (>v3) BoxBlur filter ported from Wagner.js",
   "main": "index.js",
   "scripts": {
-    "start": "budo src/index.js:build.js --live --dir static | garnish",
-    "prod": "browserify src/index.js | uglifyjs -nm > static/build.js"
+    "start": "budo src/index.js:demo.js --live | garnish",
+    "prod": "browserify src/index.js | uglifyjs -nm > demo.js"
   },
   "keywords": [
     "pixi.js",
