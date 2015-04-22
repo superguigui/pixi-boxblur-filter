@@ -2,6 +2,8 @@
 
 Pixi.js (>v3) BoxBlur filter ported from Wagner.js
 
+[demo](http://superguigui.github.io/pixi-boxblur-filter)
+
 ## Example
 
 ```javascript
